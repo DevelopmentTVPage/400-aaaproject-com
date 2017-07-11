@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "AAA Project"
+baseURL = "https:\/\/aaaproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "poop13213"
+
+[params]
+loginId = "1758904"
+subfolder = ""
